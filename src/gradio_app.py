@@ -47,4 +47,4 @@ if __name__ == "__main__": # このファイルが入り口として実行され
 
     index = create_index() # chatbot_engine.pyより
 
-    demo.launch(auth=auth)
+    demo.launch(auth=auth, share=True)
