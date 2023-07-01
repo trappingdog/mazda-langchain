@@ -1,0 +1,7 @@
+Sales champion in our company is Jane Doe.
+Her sales are 30 million yen per month. She sells 3 cars to customers every month.
+She has been working at our company for 10 years.
+
+The second Sales champion in our company is John Smith.
+His sales are 20 million yen per month. He sells 2 cars to customers every month.
+He has been working at our company for 8 years.
