@@ -47,4 +47,4 @@ if __name__ == "__main__": # このファイルが入り口として実行され
 
     index = create_index() # chatbot_engine.pyより
 
-    demo.launch(auth=auth, root_path="/gradio-demo")
+    demo.launch(auth=auth)
